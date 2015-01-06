@@ -1,0 +1,15 @@
+
+
+
+digraph principal_diagnosis {
+graph [
+overlap=true
+margin="2.5"
+  ];
+
+node [ fontname="simhei.ttf" ];
+edge [ fontname="simsun.ttc" ];
+
+
+}
+
